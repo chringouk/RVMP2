@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "RVMP",
-    "currentPage": "index.html",
+    "currentPage": "register.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 61,
+    "uniqCompNum": 70,
     "versionPublish": "4.5.4",
     "theme": {
       "name": "mobirise4",
@@ -1528,11 +1528,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p><b><span style=\"font-style: normal;\">Welcome to</span> Rossendale Valley Medical Practice <span style=\"font-style: normal;\">Website</span>.  </b><span style=\"font-style: normal;\">The high quality of health care we provide will be backed by an efficient and effective service, responsive to patient demand and accessible to all.&nbsp;</span></p><p><b><br></b><span style=\"font-size: 1.09rem; font-style: normal;\">Our website reflects this, and we hope that you find it useful.  However, as we're always looking to improve the services we offer to patients, if there's anything that you'd like to see, please <a href=\"index.html#footer1-j\">contact us</a>.</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvsff1Ke9",
+          "_anchor": "content2-1b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1b"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1575,11 +1575,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/people-clip-art-free-600x399.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><p>GP: <b>Dr MYS Ibrahim\n</b><br>Advanced NP:&nbsp;<b>Peter Hutchinson\n</b><br>Practice Nurse: <b>Claire Birtles&nbsp;</b></p><p><span style=\"font-size: 1rem;\">Practice Manager: </span><span style=\"font-size: 1rem;\"><b>Caroline Harrowell&nbsp;</b><br></span><span style=\"font-size: 1rem;\">Office Manager: </span><span style=\"font-size: 1rem;\"><b>Lindsay Parker&nbsp;</b><br></span><span style=\"font-size: 1rem;\">Acting Practice Manager: </span><span style=\"font-size: 1rem;\"><b>Clare Todd&nbsp;</b></span></p><p>Receptionists:<br><b>Julie Roberts\n<br>Tracy Jackson<br>Karen Thomson</b><br></p></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvtEi8JR2",
+          "_anchor": "content6-1c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-1c"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1593,11 +1593,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-2\">\n                    Practice Charter</h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">\n                    Your rights and responsibilities as a patient</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvwsBpEW8",
+          "_anchor": "content4-1f",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-1f"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1611,11 +1611,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>YOUR RIGHTS</b></p><p>&nbsp;- To be treated with dignity and respect.\n<br><br></p><div>&nbsp;- To have absolute confidentiality.\n<br><br></div><div>&nbsp;- To be seen within 30 minutes of your appointment\n&nbsp;<span style=\"font-size: 1rem;\">(Unless the reason for delay has been explained to you, emergency appointments excepted)&nbsp;<br><br></span></div><div>&nbsp;- To receive information about your health, your illness and its treatment, alternative treatments and possible outcomes of such illness.\n<br><br></div><div>&nbsp;- To have access to your medical records according to the legal limitations.\n<br><br></div><div>&nbsp;- To decline to take part in research or training.\n<br><br></div><div>&nbsp;- To be referred to a specialist acceptable to you provided that your GP thinks it appropriate.\n<br><br></div><div>&nbsp;- To be seen as soon as possible if you have an urgent medical condition.\n<br><br></div><div>&nbsp;- To be given a written reply to a complaint within seven working days.\n<br><br></div><div>&nbsp;- To consult with Doctor within seven working days.\n&nbsp;<span style=\"font-size: 1rem;\">(Except if Doctors appointments are reduced by leave)&nbsp;</span></div><div><br>&nbsp;- To be given advice on Health Promotions such as: stopping smoking, exercise, immunisations, etc.  Self help for minor ailments to avoid having to consult with a GP\n</div><div><br>&nbsp;- To be informed of changes in services on any brochures and notice boards.\n</div><div><br>&nbsp;- To be able to make suggestions for improvements via the Practice Manager.</div><p></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>YOUR RESPONSIBILITIES</b></p><p>&nbsp;- Out of Hours eg evenings and weekends are for:- MEDICAL EMERGENCIES ONLY.\n</p><p>&nbsp;- Do not ring the emergency number for less serious conditions.\n</p><p>&nbsp;- Do not ring the emergency number if the problem can wait until after 8am.\n</p><p>&nbsp;- To treat practice staff with dignity and respect at all times, we operate a Zero Tolerance Policy.  Violent or abusive behaviour will result in your removal from the Practice list.\n</p><p>&nbsp;- To advise us of your change of name or address immediately\n</p><p>&nbsp;- To attend all appointments on time or cancel at least 24 hours in advance.  Non-attenders cause delays and waste the doctors time, you may have to book another appointment if you are late.  Do not ask to discuss another person during your appointment, it is for one person only, make one appointment for each person to be seen or discussed\n</p><p>&nbsp;- To make every effort to come to the surgery for a consultation.  Home visits are for medical reasons only, and where possible be requested before 10:30am.  Please do not ask for home visits for your convenience\n</p><p>&nbsp;- Remember you are responsible for your own health and that of your children.  We will give you our professional advice, please act upon it.</p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvwtT3a49",
+          "_anchor": "content3-1g",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-1g"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1658,11 +1658,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/ppg-image-470x255.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Rossendale Valley Medical Practice is committed to improving the services we provide to our patients.&nbsp;</b><br><b><br></b>To do this, it is vital that we hear from people like you about your experiences, views, and ideas for making services better.\n<b>If you are interested in getting involved, please <a href=\"index.html#footer1-j\">contact</a> the Practice.\n</b><br><br>Our Patient Participation Group (PPG) is a group of active volunteer patients working in partnership with Practice Staff and Dr Ibrahim. The PPG act as a critical friend to the practice providing a patients perspective ensuring services, plans and activities respond to patients needs and priorities.\n<br>\n<br>We meet as and when necessary with practice staff to discuss relevant activity.</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvtGncf6p",
+          "_anchor": "content6-1e",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-1e"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1687,11 +1687,11 @@
           "_name": "content7",
           "_customHTML": "<section class=\"mbr-section content7\" group=\"Article\">\n          \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->   \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text align-right mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b>Aims of the Rossendale Valley Medical Practice PPG</b>&nbsp;<br>To foster communication with the wider patient population building stronger patient – doctor relationships&nbsp;<br>\n<br>Provide practical support to practice teams e.g. conducting and analysing patient surveys, organising health awareness events.\n<br>\n<br>Encourage those with long term and/or multiple health conditions to gain confidence in managing and taking control of their health care.\n<br>\n<br>Help other patients take more responsibility for their health and make informed decisions.<br></p>\n                        </div>\n                    </div>\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                     <img src=\"@PROJECT_PATH@/assets/images/committee-983x549.png\" alt=\"Mobirise\" title>  \n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvzhK1UbT",
+          "_anchor": "content7-1j",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content7-1j"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1705,11 +1705,11 @@
           "_name": "content3",
           "_customHTML": "<section mbr-id=\"_anchor\" mbr-paddings class=\"mbr-section article content3\">\n      \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) --> \n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->     \n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"row col-12 col-md-8\">\n                <div class=\"col-12 col-md-6 pr-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p><b>PPG GROUP MEMBERS</b></p><p>Dr MYS Ibrahim\n</p><p>\n<span style=\"font-size: 1rem;\">Caroline Harrowell - Practice Manager&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Clare Todd - Acting Practice Manager</span><br></p><p><span style=\"font-size: 1rem;\">Lindsay Parker - Secretary</span><br></p></div>\n                <div class=\"col-12 col-md-6 pl-lg-4 mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-article data-app-selector=\".mbr-text\" data-multiline><p>\n                     </p><p><span style=\"font-size: 1rem;\"><br></span>Barry Payton - Chair\n</p><p>\n<span style=\"font-size: 1rem;\">Susan Barker&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Chris Brown&nbsp;</span><br></p><p><span style=\"font-size: 1rem;\">Valerie Wishart</span><br></p></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvB54jLuF",
+          "_anchor": "content3-1k",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content3-1k"
+          "_params": {}
         },
         {
           "_styles": {
@@ -1723,11 +1723,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote> <b>GP Earnings</b>&nbsp;<br>All GP practices are required to declare the mean earnings (e.g. average pay) for GPs working to deliver NHS services to patients at each practice.\n&nbsp;<span style=\"font-size: 1.09rem;\">The average pay for GPs working in Rossendale Valley Medical Practice in the last financial year was £72,345 before tax and national insurance.  This is for 1 full time GP.&nbsp;</span></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvCT1xtpd",
+          "_anchor": "content2-1l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-1l"
+          "_params": {}
         }
       ]
     },
@@ -3903,6 +3903,78 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Since 1948 patients have had the right to choose their GP and primary healthcare provider.  Please collect and complete a New Patient practice questionnaire, and complete this along with a GMS1.\n<div>\n</div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMNS9Ixnx",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1u"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote>GMS1 Forms can be downloaded <a href=\"http://www.nhs.uk/Servicedirectories/Documents/GMS1.pdf\" target=\"_blank\">here</a></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMNT5I2D7",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1v"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>Refusal of Registration</b> - The practice can only refuse your application if it has fair and reasonable grounds to do so or you live outside the practice area.\n<div>\n<span style=\"font-size: 1rem;\"></span></div><div><b>Diversity and Equality</b> - Dr Ibrahim’s Surgery works hard to ensure that we offer equal access to Health Care for people who wish to join the Practice.  We are determined to ensure that we do not discriminate in any way against race, gender, social class, age, religion, sexual orientation, appearance, disability or medical condition.  At Dr Ibrahim’s we value the richness that diversity brings among our patients and also our staff.\n</div><div><span style=\"font-size: 1rem;\"></span><br></div><div><b>Consultations are by appointment only</b>. Routine appointments are booked at ten minute intervals. Urgent appointments are available during surgery hours. The receptionist will be able to give you the necessary guidance. Details of Primary Medical Services within the area may be obtained from NHS East Lancashire CCG at:</div></div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMNUHs3Xi",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content1-1w"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><span style=\"font-style: normal;\">Walshaw House, Regent Street, Nelson BB9 8AS Tel No: <a href=\"tel:01282610210\">01282 610210</a></span></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMNV48A7E",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1x"
         }
       ]
     },
@@ -4338,6 +4410,61 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>You have the right:<br></b>&nbsp;- To confidentiality under the Data Protection Act (1998) the Human Rights Act (1998) and the common law duty of confidence (the Disability Discrimination and the Race Relations Acts may also apply).\n<br>&nbsp;- To ask for a copy of all your records held by us about you.</li>\n                    <li><b>We have a duty to:\n<br></b><span style=\"font-size: 1rem;\">&nbsp;- Maintain full and accurate records of the care we provide for you. <br>&nbsp;- K</span><span style=\"font-size: 1rem;\">eep your records secure and confidential.<br><br><b>SHARING INFORMATION</b></span></li><li><b>We &nbsp;have a legal duty to give information about people, e.g.<br></b>&nbsp;- Births of children.\n<br>&nbsp;- Report some infectious diseases. <br>&nbsp;- Serious crime.&nbsp;<br>&nbsp;- To protect children.&nbsp;<br>&nbsp;- If we receive a court order to divulge information.<br><br><br>This permission is given by the senior clinician in charge of protecting your privacy in the practice and has the title of Caldicott Guardian, who is Dr MYS Ibrahim.\n<br><br>This information is not exhaustive and more information can be obtained from The Patient Information Advisory Group at <a href=\"http://www.advisorybodies.doh.gov.uk/piag/\" target=\"_blank\">www.advisorybodies.doh.gov.uk/piag/</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMM7gxKl2",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content12-1t"
         }
       ]
     },
@@ -4769,6 +4896,82 @@
           "_anchor": "content5-19",
           "_isUserblock": true,
           "_cid": "qHppMsYfOF",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content2",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote><p> <b>Please Note:</b>&nbsp;</p><p>Repeat prescription requests take 48hrs to process</p><p>Acute prescriptions are dealt with the same day.</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "qHMLpBrCGZ",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content2-1s"
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/b9p6vvjl-1256x1256.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><a href=\"https://patient.emisaccess.co.uk/\" target=\"_blank\"><br></a></b>Patient Access lets you use the online services of your local practice.<br><br><i><b><a href=\"https://patient.emisaccess.co.uk/\" target=\"_blank\">Click here to request a prescription online.</a> &nbsp;</b></i><br><br>Please note: You must be registered for this service, please ask at reception for more details.<i><b><br></b></i></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-1p",
+          "_isUserblock": true,
+          "_cid": "qHMJR9sYCz",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#767676"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/download-247x204.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><a href=\"https://patient.emisaccess.co.uk/\" target=\"_blank\"><br></a></b>Medication repeat request slips can be handed to the receptionists during opening hours, or placed in the prescription request box situated at reception.<br></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-1r",
+          "_isUserblock": true,
+          "_cid": "qHMJU8b41A",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -5231,11 +5434,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"60\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/b9p6vvjl-1256x1256.jpg\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><a href=\"https://patient.emisaccess.co.uk/\" target=\"_blank\"><br></a></b>Patient Access lets you use the online services of your local practice.<br><br><i><b><a href=\"https://patient.emisaccess.co.uk/\" target=\"_blank\">Click here to book, check or cancel an appointment online.</a> &nbsp;<br></b></i><br><i>Please note: You must be registered for this service, please ask at reception for more details.</i></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qHvDSsFnSH",
+          "_anchor": "content6-1m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-1m"
+          "_params": {}
         },
         {
           "_styles": {
