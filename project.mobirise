@@ -34,15 +34,16 @@
         "#005eb8"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32-1.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "cookiesAlert": "We use cookies to give you the best experience. Continued use of this site accepts this.",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "cookiesAlert": "We use cookies to give you the best experience. Continued use of this site assumes acceptance of this.",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://www.rossendalevalleymedicalpractice.co.uk",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
